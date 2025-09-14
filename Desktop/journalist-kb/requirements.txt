@@ -1,6 +1,0 @@
-streamlit
-faiss-cpu
-openai
-numpy
-feedparser
-newspaper3k
